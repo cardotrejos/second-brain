@@ -1,0 +1,8 @@
+- [ ] How our process work? (Detailed on each step)
+- [ ] Data analytics (for the apps, clickhouse)
+- [ ] Data Pipelines
+- [ ] Privacy and Security
+- [ ] Other (based and costumer needs)
+- [ ] SLA agreements (Response time)
+- [ ] How to charge per hour (categories, bug fixing, updating dependencies, features, etc)
+- [ ] Bussiness intelligence (?) 

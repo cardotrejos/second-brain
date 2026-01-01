@@ -1,0 +1,7 @@
+- turnova.app
+- outlinepilot.app
+- trackgrid.io
+- collectory.io
+- mushroom mobile app
+- vrelly
+- ai investor

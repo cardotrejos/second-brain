@@ -1,0 +1,10 @@
+[OpenAPI !!](https://quobix.com/articles/openapi-is-hard/)
+[Better Auth](https://www.better-auth.com/docs/installation)
+[5 day GenAI](https://www.kaggle.com/learn-guide/5-day-genai)
+[Comprar! - Real-Time Delivery Apps: A Phoenix and Flutter Approach](https://skota.gumroad.com/l/nazxw)
+[Comprar! - Elixir Cookbook](https://skota.gumroad.com/l/vwuwp)
+[Comprar!](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
+[Rust! Google](https://google.github.io/comprehensive-rust/)
+[Go to Human Agents](https://www.gotohuman.com/)
+
+[How to process Phoenix conn after render before it is sent as a response](https://curiosum.com/til/process-phoenix-conn-after-render-response)

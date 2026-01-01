@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "ebaff97a93b3a788",
+    "type": "split",
+    "children": [
+      {
+        "id": "133b2a933b0dad84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "428ff4b5d85ac7c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indie Hacker/Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ideas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88b6d71e248438de",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "272b22e03a48a225",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "a9bf72e051cf4f07",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "d6078799e341ac4b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "16d3e4e29e0c4de9",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "712053c851a5d33b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "69d182cb8487232a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "92d7b1932455187b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Excalidraw/Payroll MS.excalidraw.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "62960a355df9f5a5",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Elixir/My Journey.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "716839164f1195e7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Indie Hacker/Ideas.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "428ff4b5d85ac7c8",
+  "lastOpenFiles": [
+    "Indiehacking/Projects Followup.md",
+    "Indie Hacker/Idea.md",
+    "Indie Hacker/Ideas.md",
+    "Personal/Wishlist libros.md",
+    "Personal/Railway errors.md",
+    "Excalidraw/Drawing 2025-03-05 10.38.05.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-05 10.28.41.excalidraw.md",
+    "Things to read.md",
+    "Untitled.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Ink/Drawing/2025.2.23 - 19.19pm.drawing",
+    "Ink/Drawing",
+    "Ink",
+    "mermaid-diagram-2025-01-14-112049.svg",
+    "Excalidraw/Drawing 2025-02-23 19.13.58.excalidraw.md",
+    "AnyoneAI/Sprint1/First Activity.md",
+    "AnyoneAI/Sprint1",
+    "AnyoneAI",
+    "Revelry/SignaTrak/Bugs.md",
+    "Helios/Payroll MS.excalidraw.md",
+    "Excalidraw/Payroll MS.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-22 22.55.46.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-22 22.57.01.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-22 22.56.05.excalidraw.md",
+    "Elixir/My Journey.md",
+    "Recursive Search Binary Tree.md",
+    "FivetonineAI Event Suggester.md",
+    "Elixir/Imagenes/Screenshot 2024-04-14 at 5.04.02 PM.png",
+    "Elixir/Imagenes/Screenshot 2024-04-14 at 5.13.17 PM.png",
+    "Elixir/Imagenes/Screenshot 2024-04-14 at 5.05.05 PM.png",
+    "Journal",
+    "Productivity/Untitled.md",
+    "Elixir/Localhost.md",
+    "PKM/ChinaYa",
+    "Elixir/Imagenes/Screenshot 2024-04-14 at 5.03.39 PM.png",
+    "Elixir/Imagenes/Screenshot 2024-04-14 at 5.12.54 PM.png",
+    "Elixir/Imagenes/Screenshot 2024-04-14 at 5.04.53 PM.png",
+    "Personal/Study.md",
+    "Elixir/Imagenes/Screenshot 2024-04-14 at 5.05.25 PM.png",
+    "Elixir/Imagenes/Screenshot 2024-04-14 at 5.04.12 PM.png",
+    "Elixir/Imagenes/Screenshot 2024-04-14 at 5.03.59 PM.png",
+    "Templates",
+    "Secops & Bugbounty",
+    "Music"
+  ]
+}

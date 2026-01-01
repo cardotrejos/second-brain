@@ -1,0 +1,7 @@
+- [ ] Snapshot diarios del Google Sheets para hacer calculos de rendimientos, portfolio, etc.
+- [x] Mirar el Google Sheets, todo deberia tener el mismo formato (numeros, valores, formato, etc). ✅ 2025-10-30
+- [x] Switch para descuento anual y mensual ✅ 2025-10-30
+- [x] Eliminar "Book a live walkthrough" ✅ 2025-10-30
+- [x] Flujo completo de pago no direcciona a dashboard ✅ 2025-10-30
+- [x] Menu en el celular para volver al dashboard (ojala mobile first) ✅ 2025-10-30
+- [x] Investment simulator no se ve bien en light theme ✅ 2025-10-30

@@ -1,0 +1,1 @@
+Use /prompts:<name> key=value to expand a saved prompt with placeholders before sending.

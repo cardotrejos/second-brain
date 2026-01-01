@@ -1,0 +1,1 @@
+Ojo con el comando `source <(./export_env.sh)` Se debe usar siempre que se cambien las variables de entorno, de lo contrario no las toma.
