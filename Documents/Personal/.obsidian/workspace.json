@@ -4,59 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "adf8eb7ce5f1430f",
+        "id": "c1d1c000c455ee6e",
         "type": "tabs",
         "children": [
           {
-            "id": "7a9bd1f30317614a",
+            "id": "d82cf06247f71ca0",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
-            }
-          },
-          {
-            "id": "b60614bb5a5a4845",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Indie Hacker/Better T Stack Instructions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Better T Stack Instructions"
-            }
-          },
-          {
-            "id": "a8e3b1a4670d48fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hamster github.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hamster github"
-            }
-          },
-          {
-            "id": "98b6b1d0c16cc808",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BMAD Workflow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BMAD Workflow"
             }
           }
         ]
@@ -241,15 +199,47 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
-      "thecap-cv-generator:Preview curriculum": false
+      "thecap-cv-generator:Preview curriculum": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9fa0945b39a5b7be",
+  "active": "d82cf06247f71ca0",
   "lastOpenFiles": [
-    "2 - Areas/Indie Hacker/Idea.md",
-    "2 - Areas/Indie Hacker/Better T Stack Instructions.md",
-    "2 - Areas/Indie Hacker/AI_Investor_Diagram.excalidraw.md",
-    "2 - Areas/Indie Hacker/AC Labz.md",
+    "Projects/Vizcraft-Agent-Architecture.md",
+    "Projects",
+    "1 - Projects/Agent HQ (But more autonomous) Idea.md",
+    "1 - Projects/Agent HQ.md",
+    "Excalidraw/Drawing 2026-01-19 11.54.06.excalidraw.md",
+    "Untitled 1.md",
+    "Inbox/TSUM Template Parser - Codex Review.md",
+    "X Bookmarks/2012526982664278330.md",
+    "X Bookmarks/2012252993916145821.md",
+    "X Bookmarks/2012296259663708271.md",
+    "X Bookmarks/2012429803740348609.md",
+    "X Bookmarks/2011808100768968918.md",
+    "X Bookmarks/2012253840184377718.md",
+    "X Bookmarks/2012444932401688715.md",
+    "X Bookmarks/2012565160586625345.md",
+    "X Bookmarks/2012507246874255661.md",
+    "X Bookmarks/2012532271270568030.md",
+    "X Bookmarks/2012659700488147422.md",
+    "X Bookmarks/2012568576469746093.md",
+    "X Bookmarks/2012464928305611219.md",
+    "X Bookmarks/2012667150440476851.md",
+    "X Bookmarks/2012551361955549240.md",
+    "X Bookmarks/2012663636465254662.md",
+    "X Bookmarks/2012231037850644961.md",
+    "X Bookmarks/2012704560997904501.md",
+    "X Bookmarks/1998459478350639152.md",
+    "Inbox",
+    "3 - Resources/PKM/Research",
+    "3 - Resources/PKM/Ideas",
+    "3 - Resources/DevOps",
+    "3 - Resources/AI/ASR",
+    "3 - Resources/AI/Agents",
+    "1 - Projects/RALPH",
+    "Bear",
+    "Bear Import",
     "4 - Archives/Elixir Dev Bootcamp/Imagenes/Elixir_Supervisor_Pooling_01.png",
     "4 - Archives/Elixir Dev Bootcamp/Imagenes/Elixir_Phoenix_Error_Handling_05.png",
     "4 - Archives/Elixir Dev Bootcamp/Imagenes/Elixir_Phoenix_Error_Handling_04.png",
@@ -260,38 +250,6 @@
     "4 - Archives/Elixir Dev Bootcamp/Imagenes/Elixir_Observer_Tool_03.png",
     "4 - Archives/Elixir Dev Bootcamp/Imagenes/Elixir_Observer_Tool_02.png",
     "4 - Archives/Elixir Dev Bootcamp/Imagenes/Elixir_Observer_Tool_01.png",
-    "4 - Archives/Elixir Dev Bootcamp/Imagenes",
-    "4 - Archives/Elixir Dev Bootcamp/Errors, Tips, Finds.md",
-    "4 - Archives/Elixir Dev Bootcamp/8 - Metrics & Distributed tooling.md",
-    "4 - Archives/Elixir Dev Bootcamp/7 - Planning for scalability & How to go distributed.md",
-    "4 - Archives/Elixir Dev Bootcamp/6 - Absinthe Deep Dive & Pre-emptive error handling.md",
-    "4 - Archives/Elixir Dev Bootcamp/5 - OTP and Testing.md",
-    "4 - Archives/Elixir Dev Bootcamp/4 - Ecto DB and Architecture.md",
-    "4 - Archives/Elixir Dev Bootcamp/3 - REST and GraphQL with Phoenix.md",
-    "4 - Archives/Elixir Dev Bootcamp",
-    "5 - Trash/Hospitality notes.md",
-    "5 - Trash/Feeback.md",
-    "2 - Areas/Indie Hacker/Vizcraft Development Notes.md",
-    "3 - Resources/AI/Interior Design Prompt Grid.md",
-    "2 - Areas/Indie Hacker/Polar Credits Setup Guide.md",
-    "3 - Resources/PKM/PARA System Guide.md",
-    "5 - Trash/Hongos.md",
-    "5 - Trash/Database_Schema_Notes.md",
-    "2 - Areas/Indie Hacker/Projects Followup.md",
-    "2 - Areas/Indie Hacker/AI Investor - Pendientes.md",
-    "5 - Trash/Exercism.md",
-    "5 - Trash/Sketch.md",
-    "5 - Trash/Sailbote.md",
-    "5 - Trash/Prompt Engineer.md",
-    "5 - Trash/DataViz.md",
-    "5 - Trash",
-    "3 - Resources/Attachments",
-    "3 - Resources/Ink/Drawing/2025.2.23 - 19.19pm.drawing",
-    "3 - Resources/Ink/Drawing",
-    "3 - Resources/Ink",
-    "3 - Resources/Excalidraw",
-    "3 - Resources/PKM/Music",
-    "3 - Resources/PKM/IndieHackers",
     "Indiehacking/Untitled.canvas",
     "Untitled.canvas",
     "Indie Hacker/Untitled.canvas"
