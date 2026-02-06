@@ -1,0 +1,3 @@
+- Solo español
+- Solo monedas latinoamericanas
+- 

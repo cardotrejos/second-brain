@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "1acbc651b197ace2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2264784e0bc2a029",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8305818fff46fd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TDD Discussions and plans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TDD Discussions and plans"
+            }
+          }
+        ]
+      },
+      {
+        "id": "103e90c608cf4ea7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0db7e2004c2cd029",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35a548541ecc3d56",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc18fe4c53cda7f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2966814b4cf75564",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1f32c62d63ea0811",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2406c9e8f389bdff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6ed6c6a23a7ff382",
+    "type": "split",
+    "children": [
+      {
+        "id": "aba2b39675592a6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "616da2e7a3785f32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TDD Discussions and plans.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TDD Discussions and plans"
+            }
+          },
+          {
+            "id": "82adc9b6fe4a6744",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TDD Discussions and plans.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TDD Discussions and plans"
+            }
+          },
+          {
+            "id": "cc36e5c7d0fff0b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8aa8e98f969c0ae7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "dd4bb1f4cf60e521",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TDD Discussions and plans.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TDD Discussions and plans"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e8305818fff46fd6",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "TDD Discussions and plans.md"
+  ]
+}

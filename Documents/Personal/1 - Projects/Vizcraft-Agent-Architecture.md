@@ -13,13 +13,13 @@ Build a **semi-autonomous agent company** where agents execute and Ricardo revie
 
 ## Current Agent State
 
-| Agent | Role | Current | Potential |
-|-------|------|---------|-----------|
-| FRIDAY 🛠️ | DevOps/Releases | Release monitoring | Sentry→Code pipeline |
-| ORACLE 🔍 | Research | Research | SEO/Trends analysis |
-| COULSON 📋 | Coordination | Undefined | Issue tracking |
-| ARCHIVIST 📚 | Memory | Knowledge base | Could support all agents |
-| KODA 🐦 | Family chat | Conversational | Leave as-is |
+| Agent        | Role            | Current            | Potential                |
+| ------------ | --------------- | ------------------ | ------------------------ |
+| FRIDAY 🛠️   | DevOps/Releases | Release monitoring | Sentry→Code pipeline     |
+| ORACLE 🔍    | Research        | Research           | SEO/Trends analysis      |
+| COULSON 📋   | Coordination    | Undefined          | Issue tracking           |
+| ARCHIVIST 📚 | Memory          | Knowledge base     | Could support all agents |
+| KODA 🐦      | Family chat     | Conversational     | Leave as-is              |
 
 ---
 
@@ -45,8 +45,8 @@ Build a **semi-autonomous agent company** where agents execute and Ricardo revie
 ### FRIDAY (DevGuard)
 - Monitor Sentry for errors
 - Create GitHub issues from errors
-- Trigger Codex/Claude Code to fix
-- Open PRs for review
+- Trigger Codex/Claude Code to fix (This triggers will go to Jarvis that has access locally to the models and terminals)
+- Open PRs for review (This will be Jarvis, Friday just will follow-up and remember that the fix is there)
 - Release monitoring (existing)
 
 ### ORACLE (Research)
